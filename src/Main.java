@@ -7,8 +7,6 @@ public class Main {
         agregarVinilos(vinilos, "Pink Floyd", "The Dark Side of the Moon", "1973");
         agregarVinilos(vinilos, "Daft Punk", "Random Access Memories", "2013");
         agregarVinilos(vinilos, "The Strokes", "The New Abnormal", "323");
-        agregarVinilos(vinilos, "The Strokeasdasds", "The New Abnormal", "323");
-
         System.out.println("-------------------------");
         System.out.println("Espacio máximo colección: "+vinilos.length);
 
